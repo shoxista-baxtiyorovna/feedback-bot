@@ -6,7 +6,7 @@ import os
 load_dotenv()
 
 
-ADMIN_ID = os.getenv("ADMIN_ID")
+ADMIN_ID = int(os.getenv("ADMIN_ID"))
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 
 async def forward_to_admin(update: Update, context: ContextTypes.DEFAULT_TYPE):
