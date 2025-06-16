@@ -1,4 +1,3 @@
-# feedback-bot
 # 🤖 Feedback Telegram Bot
 
 A simple and user-friendly Telegram bot that allows users to send feedback directly to the admin. Ideal for collecting ideas, complaints, or suggestions from a community or team.
