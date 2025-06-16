@@ -25,6 +25,9 @@ committees = [
     "General Assembly",
     "HRC",
     "UN Women",
+    "UNODC",
+    "UNESCO",
+    "Security Council",
 
 ]
 
